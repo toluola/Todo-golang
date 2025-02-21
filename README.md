@@ -96,24 +96,16 @@ This is a simple Todo application built with Go, Gorilla Mux, and PostgreSQL. Th
 
 - Main application entry point: `main.go`
   ```go:main.go
-  startLine: 1
-  endLine: 31
   ```
 
 - Handlers for todo operations: `handlers/todo_handler.go`
   ```go:handlers/todo_handler.go
-  startLine: 1
-  endLine: 136
   ```
 
 - Database initialization: `db/db.go`
   ```go:db/db.go
-  startLine: 1
-  endLine: 40
   ```
 
 - Todo model definition: `models/todo.go`
   ```go:models/todo.go
-  startLine: 1
-  endLine: 12
   ```
